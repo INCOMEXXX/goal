@@ -84,7 +84,7 @@ const Ongoing = () => {
                   Progress
                 </p>
                 <p className="text-[16px] text-[#000000CC] leading-[100%]">
-                  30%
+                  50%
                 </p>
               </div>
               <img src={ll2} alt="" className="mt-[20px]" />
@@ -123,7 +123,7 @@ const Ongoing = () => {
                   Progress
                 </p>
                 <p className="text-[16px] text-[#000000CC] leading-[100%]">
-                  30%
+                  60%
                 </p>
               </div>
               <img src={ll2} alt="" className="mt-[20px]" />
@@ -164,7 +164,7 @@ const Ongoing = () => {
                   Progress
                 </p>
                 <p className="text-[16px] text-[#000000CC] leading-[100%]">
-                  30%
+                  20%
                 </p>
               </div>
               <img src={last} alt="" className="mt-[20px]" />

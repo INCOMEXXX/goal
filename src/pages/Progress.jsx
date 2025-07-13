@@ -96,7 +96,7 @@ const Progress = () => {
             </div>
             <NavLink to="/goals">
               <button className="my-[20px] bg-[#ffffff] p-[16px] hover:bg-[#0585CD] rounded-[8px] text-[20px] font-semibold leading-[100%] hover:text-[#FFFFFF] w-[156px]">
-                Update
+                Updaten
               </button>
             </NavLink>
           </div>

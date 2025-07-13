@@ -47,7 +47,7 @@ const Completed = () => {
                     Progress
                   </p>
                   <p className="text-[16px] text-[#000000CC] leading-[100%]">
-                    30%
+                    100%
                   </p>
                 </div>
                 <img src={green} alt="" className="mt-[20px]" />
@@ -98,7 +98,7 @@ const Completed = () => {
                       Progress
                     </p>
                     <p className="text-[16px] text-[#000000CC] leading-[100%]">
-                      30%
+                      100%
                     </p>
                   </div>
                   <img src={green} alt="" className="mt-[20px]" />
@@ -152,7 +152,7 @@ const Completed = () => {
                       Progress
                     </p>
                     <p className="text-[16px] text-[#000000CC] leading-[100%]">
-                      30%
+                      100%
                     </p>
                   </div>
                   <img src={green} alt="" className="mt-[20px]" />
@@ -205,7 +205,7 @@ const Completed = () => {
                       Progress
                     </p>
                     <p className="text-[16px] text-[#000000CC] leading-[100%]">
-                      30%
+                      100%
                     </p>
                   </div>
                   <img src={green} alt="" className="mt-[20px]" />
